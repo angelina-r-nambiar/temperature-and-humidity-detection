@@ -19,3 +19,6 @@ An Arduino-based environmental monitoring system that measures real-time ambient
 | **DHT11 Data** | Pin 2 | Digital input for climate data |
 | **I2C LCD SDA** | Pin A4 | Serial Data Line |
 | **I2C LCD SCL** | Pin A5 | Serial Clock Line |
+
+## 📷 Circuit Setup
+![Project Circuit](temp_humidity.jpeg)
